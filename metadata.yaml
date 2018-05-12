@@ -1,0 +1,34 @@
+_repo: Three-Months-of-My-Life_14213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foster, J. F. (John Frederick)
+    alias: Foster, John Frederick
+    birthdate: 1839
+    deathdate: 1869
+    gutenberg_agent_id: '5409'
+    url: http://www.gutenberg.org/2009/agents/5409
+  editor:
+    agent_name: Freeth, Lizzie A.
+    gutenberg_agent_id: '5374'
+    url: http://www.gutenberg.org/2009/agents/5374
+description: ''
+gutenberg_issued: '2004-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foster, J. F. (John Frederick), 1839-1869 -- Diaries'
+- !lcc 'DS'
+- !lcsh 'Surgeons -- Great Britain -- Diaries'
+- !lcsh 'Jammu and Kashmir (India) -- Description and travel'
+- !lcsh 'Great Britain. Army -- Surgeons -- Diaries'
+title: Three Months of My Life
+url: http://www.gutenberg.org/ebooks/14213
