@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5374'
     url: http://www.gutenberg.org/2009/agents/5374
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14213#Three-Months-of-My-Life
 gutenberg_issued: '2004-11-30'
 gutenberg_type: Text
 identifiers:
